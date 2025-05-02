@@ -1,8 +1,8 @@
-# Firebase Studio - CliqueStream
+# CliqueStreamTV- Revive
 
 ## Project Overview
 
-CliqueStream is a Next.js starter project built within Firebase Studio, designed to provide a foundation for building a modern streaming service. It leverages the Next.js App Router for improved performance and maintainability, Server Components for reduced client-side JavaScript, and ShadCN UI components for a consistent and professional user interface. The application also includes GenAI features implemented using Genkit, providing AI-powered functionalities like script generation and image creation.
+CliqueStream is a Next.js starter project designed to provide a foundation for building a modern streaming service. It leverages the Next.js App Router for improved performance and maintainability, Server Components for reduced client-side JavaScript, and ShadCN UI components for a consistent and professional user interface. The application also includes GenAI features implemented using Genkit, providing AI-powered functionalities like script generation and image creation.
 
 ## Project Structure
 
